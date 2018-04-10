@@ -10,7 +10,10 @@ for (let x = 1; y < cookies.length; x++) {
     const currentCookie = cookies[y]
     console.log(`Mmmmmmm... that's a good ${currentCookie} cookie`)
 }
-Conjunction Function
+```
+
+# Conjunction Function
+```js
 const conjunction = function (firstWord, secondWord) {
     const conjoinedWord = `${firstWord} ${secondWord}`
 }
